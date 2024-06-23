@@ -1,3 +1,4 @@
+**Prefered Platform Google Colab**
 Let's break down the provided code:
 
 1. **Setting Up Email Parameters**:
