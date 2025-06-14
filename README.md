@@ -32,3 +32,7 @@ Let's break down the provided code:
    - Finally, the connection to the SMTP server is closed using `mailServer.quit()`.
 
 Remember to replace the placeholder values (such as the actual email addresses, password, and file path) with appropriate values for your use case. 
+
+**OUTPUT**
+![image](https://github.com/user-attachments/assets/a4c7e088-3fa4-469d-9850-c6c586157c05)
+
